@@ -57,6 +57,7 @@ ___
 ## Project Structure:
 - 'Global_Superstore2.xlsx' #Original dataset
 - 'superstore_analysis.ipynb #Main analysis notebook
+- 'README.md' #Project overview 
 
 ---
 
